@@ -1,5 +1,5 @@
 ---
-title: Darkroom
+title: Chambre noire
 id: darkroom
 weight: 30
 draft: false
